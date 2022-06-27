@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/thamerz88" target="blank"><img src="https://img.shields.io/twitter/follow/thamerz88?logo=twitter&style=for-the-badge" alt="thamerz88" /></a> </p>
 
-- ⚡ fact **I Love PHP**
+- ⚡ **I Love PHP**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
